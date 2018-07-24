@@ -1,5 +1,8 @@
 language: ruby
 
+runtime:
+  nodePool: dynamic__x86_64__Ubuntu_14_04__c4_large
+  
 # Version number
 rvm:
   - 2.3.7
